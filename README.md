@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a community college student learning how to program. I also work full time in a non-tech role in a tech-adjacent industry.
+I have taken courses on Python, C++, and MySQL. I am currently taking prerequisite math courses to continue my CS studies.
+
+I am looking to learn more about programming and develop my skills further. In summer 2025 I will be taking a class on Java.
+
+Fun fact: I speak 3 languages (EN/FR/ES)
